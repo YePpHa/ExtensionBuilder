@@ -1,0 +1,16 @@
+{
+  "name": "cross-extension-builder",
+  "version": "1.0.0",
+  "description": "A tool used to build extensions for content script for multiple browsers.",
+  "main": "main.js",
+  "author": "Jeppe Rune Mortensen <jepperm@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:YePpHa/ExtensionBuilder.git"
+  },
+  "devDependencies": {
+    "crx": "^2.0.0",
+    "es6-promise": "^2.0.1"
+  }
+}
