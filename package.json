@@ -10,7 +10,7 @@
     "url": "git@github.com:YePpHa/ExtensionBuilder.git"
   },
   "devDependencies": {
-    "crx": "^2.0.0",
-    "es6-promise": "^2.0.1"
+    "crx": "^3.2.1",
+    "es6-promise": "^4.0.5"
   }
 }
