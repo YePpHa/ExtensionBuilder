@@ -1,6 +1,8 @@
 ExtensionBuilder
 ================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/YePpHa/ExtensionBuilder.svg)](https://greenkeeper.io/)
+
 __This is currently in development and therefore does not work.__
 
 A NodeJS library used by YouTube Center to compile it to browser extensions including userscript.
